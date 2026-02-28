@@ -46,7 +46,9 @@ A IA foi guiada através de prompts específicos.
 
 ## 📸 Prints do Processo
 
-(Adicione aqui os prints das telas geradas pelo Copilot)
+Os prints do processo estão disponíveis na pasta:
+
+/impressões
 
 ---
 
